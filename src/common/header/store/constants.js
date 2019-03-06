@@ -1,0 +1,6 @@
+export const CLICK_INPUT = 'header/CLICK_INPUT'
+export const BLUR_INPUT = 'header/BLUR_INPUT'
+export const CHANGE_LIST = 'header/CHANGE_LIST'
+export const MOUSE_ENTER = 'header/MOUSE_ENTER'
+export const MOUSE_LEAVE = 'header/MOUSE_LEAVE'
+export const SWITCH_ITEM = 'header/SWITCH_ITEM'
